@@ -16,6 +16,6 @@
     "yarn-upgrade-all": "^0.3.0"
   },
   "dependencies": {
-    "mermaid": "^7.1.2"
+    "mermaid": "^8.2.3"
   }
 }
